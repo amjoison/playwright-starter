@@ -1,0 +1,22 @@
+{
+  "name": "playwright-starter",
+  "version": "1.0.0",
+  "description": "Test Automation starter with playwright and typescript",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amjoison/playwright-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amjoison/playwright-starter/issues"
+  },
+  "homepage": "https://github.com/amjoison/playwright-starter#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.44.1",
+    "@types/node": "^20.14.2"
+  }
+}
